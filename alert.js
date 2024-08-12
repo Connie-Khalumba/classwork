@@ -6,6 +6,3 @@ return (sum = x + y)
 }
 console.log(displaySum());
 
-
-var z = "x" + "y";
-console.log(z);
